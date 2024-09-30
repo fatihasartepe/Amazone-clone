@@ -1,4 +1,5 @@
 # Amazone-clone
-#kısatanıtım
 
-![Uploading Kayt2024-09-30190305-ezgif.com-video-to-gif-converter.gif…]()
+#Amazon 
+
+![kısa tanıtım](https://github.com/user-attachments/assets/c90fc0e6-7476-4f87-a9b2-5fe14f965872)
